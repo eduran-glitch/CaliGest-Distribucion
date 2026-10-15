@@ -1,0 +1,12 @@
+﻿{
+    "version":  "3.7.39",
+    "runtime_minimo":  "1.0.0",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.39/Actualizar_CaliGest_3.7.39.exe",
+    "sha256":  "928c636348ab945ab846900c3186fac9d1a48ef53fed0d3b2c8b94c861e46909",
+    "obligatoria":  false,
+    "notas":  [
+                  "Tarjetas de materias mas compactas",
+                  "Resultado calculado simplificado",
+                  "Mejor distribucion visual de unidades"
+              ]
+}
