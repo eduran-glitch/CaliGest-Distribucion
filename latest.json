@@ -1,13 +1,13 @@
 {
-    "version":  "3.7.40",
+    "version":  "3.7.41",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.40/Actualizar_CaliGest_3.7.40.exe",
-    "sha256":  "d175658d7061ca39628f2f2c56b62ad439d5fb142140ee85aa1db6c93da0cec2",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.41/Actualizar_CaliGest_3.7.41.exe",
+    "sha256":  "088f86335d2b8f3d5614eee905ad52121d0e50f237faafff81787106ef6ae50a",
     "obligatoria":  false,
     "notas":  [
-                  "Tarjetas y unidades responsivas",
-                  "Creacion de columnas y formulas mas compacta",
-                  "Centro de reportes reorganizado",
-                  "Ventana principal utilizable a media pantalla"
+                  "Tarjetas 3:2 con unidades uniformes",
+                  "Creacion de columnas simplificada",
+                  "Prediccion de promedio por porcentajes detectados",
+                  "Editor manual plegable"
               ]
 }
