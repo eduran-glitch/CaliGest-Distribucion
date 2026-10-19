@@ -1,8 +1,8 @@
-{
-    "version":  "3.7.44",
+﻿{
+    "version":  "3.7.45",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.44/Actualizar_CaliGest_3.7.44.exe",
-    "sha256":  "075116ee7a4008f96748b4912ebb145497ae569f41c813fb9a0cddbbd06ec45b",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.45/Actualizar_CaliGest_3.7.45.exe",
+    "sha256":  "46c7c6bcd6c65eee64bef1735dfdd0bc324875e55410b2d60ad742b536fa1bea",
     "obligatoria":  false,
     "notas":  [
                   "Creacion de columnas guiada y compacta",
