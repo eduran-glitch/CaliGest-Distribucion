@@ -1,14 +1,13 @@
 {
-    "version":  "3.7.48",
+    "version":  "3.7.50",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.48/Actualizar_CaliGest_3.7.48.exe",
-    "sha256":  "d865e413e177c00fc38474bf19c369b60a9f56a0e21ddbe3922fd9e9e8805b24",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.50/Actualizar_CaliGest_3.7.50.exe",
+    "sha256":  "dfa8070079699109a0e2984ce5df6687675dfd5dfc7720cb1ccb1203ad6329fe",
     "obligatoria":  false,
     "notas":  [
-                  "Creacion de columnas guiada y compacta",
-                  "Prediccion de aportaciones desde titulo y subtitulo",
-                  "Formulas asistidas con validacion",
-                  "Boton flotante para agregar columnas",
-                  "Version interna e instalador sincronizados"
+                  "Ventana unica para crear, organizar y calificar equipos",
+                  "Filtro interno de alumnos y equipos sin rutas duplicadas",
+                  "Creacion consecutiva de equipos sin perder alumnos visibles",
+                  "Equipos base con ajustes opcionales por unidad"
               ]
 }
