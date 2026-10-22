@@ -1,13 +1,13 @@
 {
-    "version":  "3.7.50",
+    "version":  "3.7.52",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.50/Actualizar_CaliGest_3.7.50.exe",
-    "sha256":  "dfa8070079699109a0e2984ce5df6687675dfd5dfc7720cb1ccb1203ad6329fe",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.52/Actualizar_CaliGest_3.7.52.exe",
+    "sha256":  "7d279c3741ea94547bf35cacd48a948114b2ea6e4ab9e4410cb6e28984247043",
     "obligatoria":  false,
     "notas":  [
-                  "Ventana unica para crear, organizar y calificar equipos",
-                  "Filtro interno de alumnos y equipos sin rutas duplicadas",
-                  "Creacion consecutiva de equipos sin perder alumnos visibles",
-                  "Equipos base con ajustes opcionales por unidad"
+                  "Ventana de equipos compacta con estados Organizar y Calificar",
+                  "Acciones secundarias agrupadas en un menu contextual",
+                  "Asignacion visible solo al seleccionar alumnos",
+                  "Promedios con puntos extra y carga de grupos optimizada"
               ]
 }
