@@ -1,8 +1,8 @@
 {
-    "version":  "3.7.52",
+    "version":  "3.7.54",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.52/Actualizar_CaliGest_3.7.52.exe",
-    "sha256":  "7d279c3741ea94547bf35cacd48a948114b2ea6e4ab9e4410cb6e28984247043",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.54/Actualizar_CaliGest_3.7.54.exe",
+    "sha256":  "fa4e1041bc9324d0bff512576c7de16b0760bb6dde9522c767466e580abd4ec5",
     "obligatoria":  false,
     "notas":  [
                   "Ventana de equipos compacta con estados Organizar y Calificar",
