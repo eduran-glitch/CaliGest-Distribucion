@@ -1,11 +1,11 @@
 {
-    "version":  "3.7.58",
+    "version":  "3.7.59",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.58/Actualizar_CaliGest_3.7.58.exe",
-    "sha256":  "d3ea0da4bf3a44148a99b8d43ea5e762cb8b3bb95022a7febe3cb5bd2842fee1",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.59/Actualizar_CaliGest_3.7.59.exe",
+    "sha256":  "79ec133204a5d678b647258deb9ce703208d4d065518e069b02101813e9c2785",
     "obligatoria":  false,
     "notas":  [
-                  "Dashboard organizado en pestañas de resumen, indicadores institucionales, unidades y alumnos",
-                  "Gráfica de resultados compacta en anillo con selección estable y animación más suave"
+                  "Dashboard institucional con índices de reprobación por unidad, ponderados por alumnos evaluados",
+                  "Reordenamiento de columnas durante el arrastre, incluida la posición a la derecha de Estatus, con encabezados compactos"
               ]
 }
