@@ -1,13 +1,11 @@
 {
-    "version":  "3.7.55",
+    "version":  "3.7.58",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.55/Actualizar_CaliGest_3.7.55.exe",
-    "sha256":  "9990c421fb8d85219e696dfa8706158d4dd0ec6944155c7fa00c0d3e9f4bc1de",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.58/Actualizar_CaliGest_3.7.58.exe",
+    "sha256":  "d3ea0da4bf3a44148a99b8d43ea5e762cb8b3bb95022a7febe3cb5bd2842fee1",
     "obligatoria":  false,
     "notas":  [
-                  "Ventana de equipos compacta con estados Organizar y Calificar",
-                  "Acciones secundarias agrupadas en un menu contextual",
-                  "Asignacion visible solo al seleccionar alumnos",
-                  "Promedios con puntos extra y carga de grupos optimizada"
+                  "Dashboard organizado en pestañas de resumen, indicadores institucionales, unidades y alumnos",
+                  "Gráfica de resultados compacta en anillo con selección estable y animación más suave"
               ]
 }
