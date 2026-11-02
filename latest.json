@@ -2,7 +2,7 @@
     "version":  "3.7.61",
     "runtime_minimo":  "1.0.0",
     "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.61/Actualizar_CaliGest_3.7.61.exe",
-    "sha256":  "33057ddbbd149fc99d327f61ea6760c187ebb0a74ac999e140e9cee1c94edd8c",
+    "sha256":  "32e0fc946d9049be58cabc7669cf897fa9ba44cf07993b9f6f6ad8a124af9901",
     "obligatoria":  false,
     "notas":  [
                   "Mejoras de rendimiento en la vista Final sin cambiar las reglas de cálculo",
