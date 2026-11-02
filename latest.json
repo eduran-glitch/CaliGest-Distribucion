@@ -1,11 +1,11 @@
 {
-    "version":  "3.7.60",
+    "version":  "3.7.61",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.60/Actualizar_CaliGest_3.7.60.exe",
-    "sha256":  "fdea9dfdd39cfd45e37cd82ec20422ac0a832bcb4eb206540bc9bba6475151ae",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.61/Actualizar_CaliGest_3.7.61.exe",
+    "sha256":  "33057ddbbd149fc99d327f61ea6760c187ebb0a74ac999e140e9cee1c94edd8c",
     "obligatoria":  false,
     "notas":  [
-                  "Pegado directo desde Excel con vista previa para columnas, filas y bloques",
-                  "Identificación por matrícula o nombre, respeto de filtros, validación académica y aplicación atómica"
+                  "Mejoras de rendimiento en la vista Final sin cambiar las reglas de cálculo",
+                  "Selector de referencias de fórmulas y funciones ampliado"
               ]
 }
