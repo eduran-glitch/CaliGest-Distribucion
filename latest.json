@@ -1,11 +1,10 @@
 {
-    "version":  "3.7.61",
+    "version":  "3.7.62",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.61/Actualizar_CaliGest_3.7.61.exe",
-    "sha256":  "17925bb0553cfaacae44df360ed405ea05ab63b5b7132b200f9f6f91cbab0369",
-    "obligatoria":  false,
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.62/Actualizar_CaliGest_3.7.62.exe",
+    "sha256":  "82387c33296f45cf0b20753e4e6dc5b781c73c64f87e590231dadee31a20cdcb",
     "notas":  [
-                  "Mejoras de rendimiento en la vista Final sin cambiar las reglas de cálculo",
-                  "Selector de referencias de fórmulas y funciones ampliado"
-              ]
+                  "Correcciones y mejoras de CaliGest"
+              ],
+    "obligatoria":  false
 }
