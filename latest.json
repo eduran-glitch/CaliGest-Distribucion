@@ -1,10 +1,10 @@
 {
-    "version":  "3.7.62",
+    "version":  "3.7.63",
     "runtime_minimo":  "1.0.0",
-    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.62/Actualizar_CaliGest_3.7.62.exe",
-    "sha256":  "82387c33296f45cf0b20753e4e6dc5b781c73c64f87e590231dadee31a20cdcb",
+    "url":  "https://github.com/eduran-glitch/CaliGest-Distribucion/releases/download/v3.7.63/Actualizar_CaliGest_3.7.63.exe",
+    "sha256":  "f3a881a8585c7760ff8e8cb45a8a31a277388518b82202aa84e731531df617a2",
     "notas":  [
-                  "Correcciones y mejoras de CaliGest"
+                  "ExportaciÃ³n institucional de calificaciones y mejoras de CaliGest"
               ],
     "obligatoria":  false
 }
